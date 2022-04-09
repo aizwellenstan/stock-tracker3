@@ -43,7 +43,7 @@
     "gulp-uglify": "^1.5.4",
     "gulp-util": "^3.0.7",
     "htmlparser2": "^3.9.1",
-    "moment": "^2.14.1",
+    "moment": "^2.29.2",
     "node-rest-client": "^2.0.1",
     "node-sass": "^4.7.2",
     "react": "16.2.0",
